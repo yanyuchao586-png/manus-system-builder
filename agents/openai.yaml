@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manus System Builder"
+  short_description: "Build new systems with a Manus-like workflow."
+  default_prompt: "Use this skill to turn rough requirements, old files, or prototypes into a verified web system through intake, planning, implementation, AI preflight, testing, and iteration."
