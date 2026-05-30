@@ -42,6 +42,8 @@ Normalize the request into a buildable brief:
 
 Keep the brief practical. It should guide implementation, not become a long product document unless the user asks for one.
 
+Use `references/checkpoint-templates.md` when the task needs a structured brief, AI preflight, browser acceptance checklist, or final handoff report.
+
 ## AI Preflight
 
 Before adding AI capability, explicitly ask the user:
@@ -146,3 +148,8 @@ When handing work back, include:
 - Browser or production verification status
 - Known risks or unverified areas
 - Suggested next step
+
+## References
+
+- For reusable brief, AI preflight, verification, and handoff templates, read `references/checkpoint-templates.md`.
+- For a concrete example of turning vague requirements into an implementation brief, read `examples/example-build-brief.md`.
